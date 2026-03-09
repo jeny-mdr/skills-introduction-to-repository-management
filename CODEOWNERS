@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @jeny-mdr
+/src/backend/database.py      @jeny-mdr
+/src/backend/routers/auth.py  @jeny-mdr
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @jeny-mdr
